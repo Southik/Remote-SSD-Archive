@@ -1,0 +1,5 @@
+{
+  "aws_bucket_name": "local-cloud-queue-856805821816-eu-north-1-an",
+  "aws_region": "us-east-1",
+  "ssd_destination_dir": "/Volumes/ExternalSSD/ApprovedSubmissions"
+}
