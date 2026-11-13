@@ -1,5 +1,5 @@
 const API_ENDPOINT =
-  "https://6vkpjuest4.execute-api.eu-north-1.amazonaws.com/default/secure-upload-auth";
+  "...";
 
 export const MAX_FILE_MB = 500;
 
